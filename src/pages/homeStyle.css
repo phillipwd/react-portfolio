@@ -1,0 +1,15 @@
+.imgBox{
+    width: 20vw;
+    margin: 20px;
+    /* position: relative; */
+    /* top: 20px */
+    float: left;
+}
+
+.content{
+    width: 80vw;
+    background-color: royalblue;
+    margin: 0 auto;
+    text-align:left;
+    padding: 10px
+}
