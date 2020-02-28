@@ -1,0 +1,32 @@
+.card{
+    width: 25vw;
+    min-width: 250px;
+    /* position: relative;
+    top: 0px */
+}
+img{
+    max-height: 100%;
+    max-width: 100%
+}
+
+.ribbon{
+    background: rgba(0, 0, 255, 0.1);
+    height: 25px;
+
+    position: relative;
+    bottom: 55px;
+}
+.darken{
+    color:rgba(225, 225, 241, 1.0);
+
+}
+.repoBanner{
+    position: relative;
+    bottom: 40px;
+}
+
+.lighten{
+    background: rgba(0, 0, 255, 0.7);
+    height: 25px;
+    color: rgba(255, 255, 255 1.0);
+}
